@@ -1,6 +1,3 @@
-Sure! Here's a sample README file for your PHP project, a building contractor booking site.
-
----
 
 # Building Contractor Booking Site
 
@@ -94,5 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, please reach out to us at contact@building-construction.com.
-
------
